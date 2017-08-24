@@ -1,0 +1,1 @@
+# ColorMagic_ProtocolDelegate
